@@ -10,6 +10,7 @@
 
 # production
 /build
+api-app-react.code-workspace
 
 # misc
 .DS_Store
